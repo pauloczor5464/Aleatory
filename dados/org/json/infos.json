@@ -377,7 +377,7 @@
   },
   {
     "comando": "figurinhas",
-    "info": "Exemplo: #prefixo#figurinhas 5\n\nMáximo é de 5 figurinhas para o Bot enviar, pacotes diferentes disponível:\n\n◈• #prefixo#figdesenho\n◈• #prefixo#figengracada\n◈• #prefixo#figraiva\n◈• ${prefix}figcoreana\n◈• #prefixo#figanime\n◈• #prefixo#figmeme\n◈• #prefixo#figroblox\n◈• #prefixo#figemoji"
+    "info": "Exemplo: #prefixo#figurinhas 5\n\nMáximo é de 5 figurinhas para o Bot enviar, pacotes diferentes disponível:\n\n◈• #prefixo#figdesenho\n◈• #prefixo#figengracada\n◈• #prefixo#figraiva\n◈• #prefixo#figcoreana\n◈• #prefixo#figanime\n◈• #prefixo#figmeme\n◈• #prefixo#figroblox\n◈• #prefixo#figemoji"
   },
   {
     "comando": "casal",
