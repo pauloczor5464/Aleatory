@@ -1,4 +1,4 @@
-const configuracaoBot = (prefixo) => {
+const configbot = (prefixo) => {
 return `
 === COMO PERSONALIZAR O BOT PARA SER O DONO ===
 
@@ -29,4 +29,4 @@ Boa sorte.
 `
 }
 
-exports.configuracaoBot = configuracaoBot
+exports.configbot = configbot
