@@ -8,7 +8,7 @@
   
 Precisa de ajuda? Entre em nosso chat: 
 
-https://chat.whatsapp.com/CtOo3xGlaqlLnc6eiRp5u4
+https://chat.whatsapp.com/DLOKQvmdRQIBGehBVZIADJ
 
 Use na http://bronxyshost.com.br é um valor consideravel a partir de 10 R$, meu canal com o passo a passo de instalação: https://youtu.be/Rc6Rtnqeh-c?si=cT_HICVP17mhrceJ
 
